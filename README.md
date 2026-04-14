@@ -10,8 +10,9 @@ Once it reaches 9 it resets back to 0 and keeps counting.
 ## Components
 - Arduino Mega
 - LSHD-5503 7-segment display
-- 7x 1kΩ resistors
-- 1x pushbutton
+- 4x 1kΩ resistors
+- 4x 330Ω resistors
+- 1x 4-pin pushbutton
 
 ## Wiring
 - Segments A-G → Mega pins 7,6,4,3,2,8,9
